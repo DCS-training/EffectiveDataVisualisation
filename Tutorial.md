@@ -64,11 +64,30 @@ The following chart provides an easily understood message, that over time, witho
 
 ##  Using Excel 
 
+### Excel Column Chart
+
 Column charts are used to compare values across categories by using vertical bars.
 
-Download the [Wildlife spreadsheet](https://digital-exploits.edina.ac.uk/visualize/files/wildlife.xlsx)  and open in Excel.
+Download the [Wildlife spreadsheet](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/wildlife.xlsx) and open in Excel.
 
 To create a  **column chart**, execute the following steps.
 
 1. Select the range A1:A7, hold down CTRL, and select the range C1:D7.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image9.png)
+
+2. Click Insert from the top menu, then in the Charts group, click the Column symbol.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image11.png)
+
+3. Click Clustered Column.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image12.png)
+
+**Result**
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image13.png)
+
+*Note*: if you have numeric labels, empty cell A1 before you create the column chart. By doing this, Excel does not recognize the numbers in column A as a data series and automatically places these numbers on the horizontal (category) axis. After creating the chart, you can enter the text Year into cell A1 if you like.
+
 
