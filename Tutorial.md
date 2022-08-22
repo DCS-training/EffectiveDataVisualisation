@@ -176,3 +176,25 @@ To find out if there is a relationship between X (a person's salary) and Y (his/
 **Result:**
 
 ![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image26.png)
+
+
+## Online Tools - Datawrapper
+
+There are a number of online websites that will create decent visualizations from your data
+
+[Datawrapper](https://www.datawrapper.de/) is one such site - see examples below - you will need to supply them with an email address before you can download any chart you create. However, you can preview the results without doing this and create a screen grab.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image27.png)
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image28.png)
+
+
+## Using Python and Notebooks
+
+The aim is that by using the pre-supplied code examples, and editing them to use your own files you will begin to gain an understand of the techniques used. However, even if much of the code seems unfathomable, it is possible to return to Notable and re-use this Notebook with your own texts.
+
+You can run [this notebook](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/python-viz.ipynb) either via Noteable, via Google Colab, or on your own device. Check the [Readme.md](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/README.md) file in this repository to check how to open a Python Notebook via these three options. 
+
+**THE END**
+
+
