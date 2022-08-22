@@ -62,3 +62,13 @@ The following chart provides an easily understood message, that over time, witho
 ![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image8.jpg)
 
 
+##  Using Excel 
+
+Column charts are used to compare values across categories by using vertical bars.
+
+Download the [Wildlife spreadsheet](https://digital-exploits.edina.ac.uk/visualize/files/wildlife.xlsx)  and open in Excel.
+
+To create a  **column chart**, execute the following steps.
+
+1. Select the range A1:A7, hold down CTRL, and select the range C1:D7.
+
