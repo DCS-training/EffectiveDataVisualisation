@@ -138,5 +138,41 @@ You can easily change to a different type of chart at any time.
 ![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image20.png)
 
 
+### Excel Scatter Plot
 
 
+Use a scatter plot (XY chart) to show scientific XY data. Scatter plots are often used to find out if there's a relationship between variable X and Y.
+
+Download the [scatter-plot spreadsheet](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/scatter-plot.xlsx) and open in Excel.
+
+To find out if there is a relationship between X (a person's salary) and Y (his/her car price), execute the following steps.
+
+1. Select the range A1:B10.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image21.png)
+
+2. On the Insert tab, in the Charts group, click the Scatter symbol.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image22.png)
+
+3. Click Scatter.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image23.png)
+
+**Result:**
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image23.jpg)
+
+*Note*: we can add a trendline to clearly see the relationship between these two variables.
+
+#### Adding a Trendline
+
+1. Select the chart.
+
+2. Add Chart Element > Trendline > Linear
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image25.png)
+
+**Result:**
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image26.png)
