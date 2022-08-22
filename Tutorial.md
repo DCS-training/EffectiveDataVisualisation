@@ -91,3 +91,52 @@ To create a  **column chart**, execute the following steps.
 *Note*: if you have numeric labels, empty cell A1 before you create the column chart. By doing this, Excel does not recognize the numbers in column A as a data series and automatically places these numbers on the horizontal (category) axis. After creating the chart, you can enter the text Year into cell A1 if you like.
 
 
+### Excel Line Chart
+
+Excel is capable of generating various chart types, and as data is often stored in an Excel spreadsheet this is often an easy way to create a visualization
+
+Download the [Wildlife spreadsheet](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/wildlife.xlsx) and open in Excel.
+
+To create a line chart, execute the following steps.
+
+1. Select the range A1:D7.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image14.png)
+
+2. On the Insert tab, in the Charts group, click the Line symbol.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image15.png)
+
+3. Click Line with Markers.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image16.png)
+
+**Result:**
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image17.png)
+
+*Note*: enter a title by clicking on Chart Title. For example, Wildlife Population.
+
+#### Change Chart Type
+
+You can easily change to a different type of chart at any time.
+
+1. Select the chart.
+
+2. On the Design tab, in the Type group, click Change Chart Type.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image18.png)
+
+3. On the left side, click Column.
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image19.png)
+
+4. Click OK.
+
+**Result:**
+
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image20.png)
+
+
+
+
