@@ -193,7 +193,9 @@ There are a number of online websites that will create decent visualizations fro
 
 The aim is that by using the pre-supplied code examples, and editing them to use your own files you will begin to gain an understand of the techniques used. However, even if much of the code seems unfathomable, it is possible to return to Jupyter Notebook and re-use this Notebook with your own texts.
 
-You can run [this notebook](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/python-viz.ipynb.zip) either via Noteable, via Google Colab, or on your own device. Check the [Readme.md](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/README.md) file in this repository to learn how to open a Python Notebook via these three options. 
+You can run [this notebook](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/python-viz.ipynb.zip) either via Noteable, via Google Colab, or on your own device. Before you start you will have to download the zipped version of the notebook and extract the file within to an easy accessible part of your computer.
+
+Once you have the file downloaded and extracted you can check the [Readme.md](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/README.md) file in this repository to learn how to open a Python Notebook via Noteable, via Google Colab, or on your own device. 
 
 **THE END**
 
