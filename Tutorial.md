@@ -161,7 +161,7 @@ To find out if there is a relationship between X (a person's salary) and Y (his/
 
 **Result:**
 
-![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image23.jpg)
+![image](https://github.com/DCS-training/EffectiveDataVisualisation/blob/main/images/image24.jpg)
 
 *Note*: we can add a trendline to clearly see the relationship between these two variables.
 
