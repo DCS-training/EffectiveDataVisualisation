@@ -15,7 +15,7 @@ This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-
 
 ## How to use this repository
 
-Follow along the tutorial using the 'tutorial.md' file. The last section of the tutorial uses a Jupiter Notebook to show how to produce good data visualisation via Python 
+Follow along the tutorial using the 'tutorial.md' file. The last section of the tutorial uses a Jupyter Notebook to show how to produce good data visualisation via Python 
 
 
 ## How to use the Jupyter Notebooks
